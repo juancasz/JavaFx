@@ -14,4 +14,4 @@ The user can add pairs word-translation in the desired language to the dictionar
 # Tic-Tac-Toe
 Simple tic-tac-toe game between two players
 
-![Screenshot](gui-vocabulary-practice.gif)
+![Screenshot](tic-tac-toe.png)
