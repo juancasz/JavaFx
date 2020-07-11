@@ -8,3 +8,7 @@ As the user types text, the program gives the user information about that text (
 
 # Vocabulary Practice
 The user can add pairs word-translation in the desired language to the dictionary and then the user can practice with the given dictionary.
+
+![Screenshot](gui-vocabulary-practice.gif)
+
+
